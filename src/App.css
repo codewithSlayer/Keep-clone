@@ -1,0 +1,12 @@
+.fa-trash{
+    cursor: pointer;
+}
+
+#border{
+    border: 2px solid grey;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px ;
+}
